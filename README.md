@@ -1,1 +1,1 @@
-### u0100-ChatGPT Beta
+### u0100-ChatGPT-beta-version
